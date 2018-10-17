@@ -5,7 +5,7 @@
 </head>
 <body style=" background-color: #blue">
 	<table align="center">
-		<form action="loginproses.php" method="POST" enctype="multipart/form-data">
+		<form action="proses.php" method="POST" enctype="multipart/form-data">
 			<tr>
 				<td colspan="3" align="center"><h1>INPUT DATA MAHASISWA</h1></td>
 			</tr>
